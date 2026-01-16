@@ -1,0 +1,7 @@
+conda create --name ENV python==3.12.0 ipython
+conda install pip
+pip install langchain 
+            langchain-ollama 
+            langchain-chroma
+            langchain-community 
+            pandas
